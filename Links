@@ -1,0 +1,8 @@
+button_data = [
+("Блюда из курицы",
+"https://www.russianfood.com/recipes/bytype/?fid=933"),
+("Блюда из баранины",
+"https://www.russianfood.com/recipes/bytype/?fid=72"),
+("Блюда из рыбы",
+"https://www.russianfood.com/recipes/bytype/?fid=16")
+]
